@@ -1,2 +1,14 @@
-## Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities
-This paper presents an innovative framework for enhancing energy management in smart grids within sustainable smart cities by integrating advanced technologies such as 6G IoT, AI, and blockchain. It utilizes a suite of machine learning models including decision trees, XGBoost, support vector machines, and optimally tuned artificial neural networks to predict grid load fluctuations, especially during peak demand, thereby ensuring consistent power delivery and preventing overloads. Additionally, the framework employs LSTM recurrent neural networks to analyze weather data for accurate solar energy production forecasts, which aids in better energy consumption planning. For microgrid management within individual buildings or clusters, deep Q reinforcement learning is applied to dynamically manage and optimize photovoltaic energy usage, further enhancing overall efficiency. The integration of blockchain technology verifies energy consumption readings and transactions, promoting transparency and trust essential for renewable resource adoption. The approach not only stabilizes grid operations but also fosters the reliability and sustainability of energy systems, supporting a robust adoption of renewable energies.
+# **Smart Grid Energy Management ⚡🔋**  
+*Optimizing Renewable Energy Integration & Grid Efficiency using AI & Reinforcement Learning*  
+
+##  **Overview**  
+This project focuses on **intelligent energy management for smart grids** by integrating **renewable energy sources, battery storage systems, and AI-driven optimization techniques**. Using **Deep Q-Learning (DQL) for decision-making**, the system balances **grid import, renewable generation, and storage utilization** to minimize costs and enhance efficiency.  
+
+##  **Features**  
+ **Deep Q-Learning for Grid Optimization** – Reduces reliance on non-renewable sources.  
+ **Renewable Energy Forecasting** – Predicts solar and wind power availability.  
+ **Battery Storage Management** – Optimizes charge/discharge cycles for efficiency.  
+ **Dynamic Grid Load Balancing** – Reduces energy wastage and stabilizes supply-demand.  
+ **Real-Time Visualization & Insights** – Interactive dashboards for monitoring grid performance.  
+
+
